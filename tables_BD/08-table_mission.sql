@@ -1,0 +1,15 @@
+INSERT INTO mission VALUES
+(2001,'prologue','illégal','ouvert',4001,3001),
+(2002,'Franklin and Lamar','légal','fermé',4002,3002),
+(2003,'repossession','illégal','fermé',4002,3003),
+(2004,'chop','légal','fermé',4003,3004),
+(2005,'marriage counseling','légal','fermé',4004,3005),
+(2006,'Daddy little girl','légal','fermé',4017,3006),
+(2007,'work with uber eat','légal','fermé',4017,3007),
+(2008,'casing the jewel store','illégal','fermé',4006,3008),
+(2009,'trevor Philips industries','illégal','fermé',4007,3009),
+(2010,'nervous ron','illégal','fermé',4008,3010),
+(2011,'dead man walking','illégal','fermé',4009,3011),
+(2012,'three company','illégal','fermé',4010,3012),
+(2013,'work with uber drive','légal','fermé',4017,3013),
+(2014,'trash truck','illégal','fermé',4012,3014);

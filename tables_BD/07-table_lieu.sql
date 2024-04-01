@@ -1,0 +1,18 @@
+INSERT INTO lieu VALUES
+(4001,'North Yankton'),
+(4002,'Vespucci Beach'),
+(4003,'Downtown Vinewood'),
+(4004,'Michael House'),
+(4005,'Murrieta Heights'),
+(4006,'Darnell Bros'),
+(4007,'Sandy Shores'),
+(4008,'Sandy Shores Airfield'),
+(4009,'Vinewood Hills'),
+(4010,'Dutch London Warehouse'),
+(4011,'Franklin House'),
+(4012,'East Vinewood'),
+(4013,'Lamar House'),
+(4014,'Los Santos'),
+(4015,'Fort Zancudo'),
+(4016,'Murrieta Oil Field'),
+(4017,'Los Santos');
